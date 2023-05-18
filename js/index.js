@@ -59,3 +59,4 @@ let email= "sing1851@algonquinlive.com.com";
 let output= `My name is ${first_name} ${last_name}. You can contact me at ${email}.`;
 
 alert(output);
+
